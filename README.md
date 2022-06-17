@@ -1,4 +1,4 @@
-# This project is submitted to polygon x encode beginners track
+# NFT MINTER DAPP 
  The project is deployed to polygon mumbai testnet
  
  
